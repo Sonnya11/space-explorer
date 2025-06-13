@@ -1,0 +1,11 @@
+# Ignore Python environment and cache
+venv/
+__pycache__/
+*.pyc
+
+# Ignore node modules for React
+frontend/node_modules/
+frontend/dist/
+
+# Ignore environment variables or keys
+.env
